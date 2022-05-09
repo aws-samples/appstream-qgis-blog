@@ -1,6 +1,6 @@
 ## AppStream QGIS Blog Post Supporting Content
 
-This project contains source code to support an AWS blog post showing how to use Amazon AppStream 2.0 to stream the QGIS application.
+This project contains source code to support an [AWS blog post](https://aws.amazon.com/blogs/publicsector/how-to-deliver-performant-gis-desktop-applications-amazon-appstream-2-0/) showing how to use Amazon AppStream 2.0 to stream the QGIS application.  The accompanying blog post should be used as the primary guide for deploying code within this repository.  The accompanying blog details important prerequisite information before the CloudFormation template in this repository can be deployed successfully.
 
 ## Security
 
